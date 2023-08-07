@@ -10,5 +10,3 @@ for x in fruits:
 fruits[1:3] = ["Watermelon"]
 fruits.insert(4, "Gava")
 print(fruits)
-
-
